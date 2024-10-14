@@ -64,6 +64,5 @@ You can modify the following parameters in the code to suit your environment:
 - `step_size: Step size for the algorithm to expand the tree.`
 - `max_iter: Maximum number of iterations before stopping the algorithm.`
 
-## Implementation
-![image](https://github.com/Jefferson-Aggor/rrt-/blob/main/Figure_1.png)
-"# rrt-star" 
+## Visualization
+![image](https://github.com/Jefferson-Aggor/rrt-star/blob/main/rrt_star_animation.gif)
